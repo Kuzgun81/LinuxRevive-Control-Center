@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=LinuxRevive Control Center
+Comment=Linux sistemini kolayca yönet
+Exec=python3 -m linuxrevive
+Icon=utilities-system-monitor
+Terminal=false
+Categories=GTK;System;Utility;
